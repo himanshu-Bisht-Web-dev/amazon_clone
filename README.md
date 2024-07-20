@@ -43,4 +43,4 @@ To get a local copy up and running, follow these simple steps:
    git clone https://github.com/himanshu-Bisht-Web-dev/amazon_clone.git
 
 ## Contact
-For any inquiries, please contact your-himanshubisht599@gmail.com.
+For any inquiries, please contact himanshubisht599@gmail.com.
