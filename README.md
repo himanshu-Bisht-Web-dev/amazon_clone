@@ -25,6 +25,10 @@ The Amazon clone is a front-end project that aims to mimic the appearance and fu
 - Header with search bar and navigation links
 - Footer with additional information links
 
+  ## Screenshot
+
+![Amazon Clone Screenshot](screenshot.png)
+
 ## Technologies Used
 
 - HTML
@@ -37,3 +41,6 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository
    ```sh
    git clone https://github.com/himanshu-Bisht-Web-dev/amazon_clone.git
+
+## Contact
+For any inquiries, please contact your-himanshubisht599@gmail.com.
